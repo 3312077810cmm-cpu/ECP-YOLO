@@ -221,9 +221,7 @@ calibration_*.npy
 /SPDConv.py
 /statistic.py
 /test.py
-/train.py
 /transform.py
-/val.py
 /validation.py
 /zhuzhuangtu.py
 
